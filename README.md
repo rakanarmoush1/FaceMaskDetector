@@ -1,2 +1,2 @@
 # FaceMaskDetector
- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+ ![Alt Text](https://github.com/rakanarmoush1/FaceMaskDetector/blob/main/Face%20Mask%20Detector.gif)
