@@ -1,2 +1,2 @@
 # FaceMaskDetector
- ![ Alt text](name-of-gif-file. gif) / ! [](Face Mask Detector. gif)
+ ![ Alt text](name-of-gif-file. gif) / ! [](Face Mask Detector.gif)
