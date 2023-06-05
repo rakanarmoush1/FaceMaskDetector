@@ -8,7 +8,7 @@ import splitfolders
 # Splitting the data into a train(0.8)/test(0.2) split
 splitfolders.ratio('data', output='train_test', ratio=(0.8, 0.2))
 
-# Optimizing TensorFlow performance to my current machine
+
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 # Building CNN layers (3 convolutional layers with max pooling, 1 dense layer, and a softmax output layer)
